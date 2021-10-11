@@ -1,0 +1,91 @@
+.datos {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.usuario {
+    justify-content: center;
+    font-family: fantasy;
+    border-radius: 40px;
+    width: 340px;
+    height: 40px;
+    border: 220px;
+    margin: 10px;
+}
+
+.password{
+    justify-content: center;
+    font-family: fantasy;
+    border-radius: 40px;
+    width: 340px;
+    height: 40px;
+    border: 220px;
+    margin: 10px;
+}
+
+.btn{
+    font-family: unset; 
+    border-radius: 50px;
+    width: 70px;
+    height: 40px;
+    border: 220px;
+    margin: 10px;
+}
+
+.Titulo{
+    font-family: unset;  
+    font-size: 40px;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin: 10px;
+}
+
+.boton0{
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 40px;
+    width: 340px;
+    height: 40px;
+    border: 220px;
+    margin: 10px;
+}
+
+.boton1{
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 40px;
+    width: 340px;
+    height: 40px;
+    border: 220px;
+    margin: 10px;
+}
+
+.boton2{
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 40px;
+    width: 140px;
+    height: 40px;
+    border: 220px;
+    margin: 10px;
+}
+
+.boton3{
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 40px;
+    width: 140px;
+    height: 40px;
+    border: 220px;
+}
+
+.grid-item{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    display:content;
+    border-radius: 30px;
+    margin: 60px;
+}
+
+
